@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! My name is Sachin, I'm from India.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+Full-Stack+Developer;Cyber+Security+Enthusiast;Python+%7C+MERN+%7C+Flutter+Explorer;Building+Secure+%26+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+Full-Stack+Developer;Python+%7C+MERN+%7C+Flutter+Explorer;Building+Secure+%26+Scalable+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  Passionate about crafting secure and scalable applications, I'm on an exhilarating journey through the realms of full-stack development and cybersecurity. My goal? To build innovative solutions that make a difference!
+  I'm super into making apps that work great for lots of people. Right now, I'm geeking out over full-stack dev. Why? 'Cause I wanna build cool stuff that actually helps people!
 </p>
 
 <p align="center">
@@ -20,14 +20,13 @@
 
 <br>
 
-<h2 align="center">🚀 What I'm Up To</h2>
+<h2 align="center">🚀 What's Keeping Me Busy</h2>
 
 <p align="center">
-  🐍 Mastering Python for versatile programming<br>
-  🌐 Diving deep into the MERN stack<br>
-  📱 Crafting cross-platform magic with Flutter<br>
-  🔒 Fortifying my cybersecurity expertise<br>
-  🧠 Exploring AI and Machine Learning
+  🐍 Getting cozy with Python - it's my go-to for pretty much everything
+  🌐 Going all in on the MERN stack - it's a game-changer, I'm telling ya
+  📱 Working some Flutter magic to make apps that'll run anywhere
+  🧠 Dipping my toes into AI and Machine Learning - it's mind-blowing stuff!
 </p>
 
 <br>
