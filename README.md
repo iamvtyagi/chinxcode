@@ -23,9 +23,9 @@
 <h2 align="center">🚀 What's Keeping Me Busy</h2>
 
 <p align="center">
-  🐍 Getting cozy with Python - it's my go-to for pretty much everything
-  🌐 Going all in on the MERN stack - it's a game-changer, I'm telling ya
-  📱 Working some Flutter magic to make apps that'll run anywhere
+  🐍 Getting cozy with Python - it's my go-to for pretty much everything<br>
+  🌐 Going all in on the MERN stack - it's a game-changer, I'm telling ya<br>
+  📱 Working some Flutter magic to make apps that'll run anywhere<br>
   🧠 Dipping my toes into AI and Machine Learning - it's mind-blowing stuff!
 </p>
 
