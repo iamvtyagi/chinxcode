@@ -82,8 +82,9 @@
 <h2 align="center">🐍 Contributions Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chinxcode/chinxcode/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/iamvtyagi/iamvtyagi/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 <br>
 
